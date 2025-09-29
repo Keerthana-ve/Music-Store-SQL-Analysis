@@ -80,4 +80,6 @@ The queries in this project answer real-world business problems, such as: -Who i
 
 🚀 Getting Started
 
-Clone this repository Import schema.sql into your SQL Server / PostgreSQL / MySQL Load sample data from data/ Run queries from queries.sql
+1.Clone this repository 
+2.Import music_database_project.sql into your SQL Server / PostgreSQL / MySQL 
+3.Load sample data from data folder 
